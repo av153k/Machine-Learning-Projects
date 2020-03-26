@@ -1,0 +1,2 @@
+In this Project, I am using the Titanic dataset provided by Kaggle. I checked the accuracy against Linear and Non-Linear Machine Learning Algorithms.
+We can boost up the accuracy by making some changes to the feature columns. 
